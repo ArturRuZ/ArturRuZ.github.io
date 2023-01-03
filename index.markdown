@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: site.title
+site.description
+You can find my code at [GitHub:] (https://github.com/ArturRuZ)
 ---
