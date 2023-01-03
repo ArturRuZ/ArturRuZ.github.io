@@ -6,6 +6,5 @@ layout: page
 title: site.title
 site.description
 ---
-<center>
+
 You can find my code on [GitHub](https://github.com/ArturRuZ)
-</center>
