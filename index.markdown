@@ -6,4 +6,4 @@ layout: page
 title: site.title
 site.description
 ---
-You can find my code on [GitHub](https://github.com/ArturRuZ)
+You can find my code on [GitHub](https://github.com/ArturRuZ) {: .center}
